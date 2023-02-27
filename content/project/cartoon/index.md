@@ -1,6 +1,6 @@
 ---
 title: Cartoon Face Generator
-summary: Write about your project here...
+summary: deep learning neural network
 tags:
   - CV
 date: 2022-01-01
